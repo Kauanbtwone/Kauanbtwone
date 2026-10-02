@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Fundo escuro com cantos arredondados -->
+  <rect width="100" height="100" rx="24" fill="#010203"/>
+  
+  <!-- Símbolo de terminal (Rosa) -->
+  <text x="35" y="65" font-family="'JetBrains Mono', monospace, sans-serif" font-size="55" font-weight="bold" fill="#FF2BD6" text-anchor="middle">></text>
+  
+  <!-- Cursor (Laranja) -->
+  <text x="75" y="65" font-family="'JetBrains Mono', monospace, sans-serif" font-size="55" font-weight="bold" fill="#FFB23F" text-anchor="middle">_</text>
+</svg>
